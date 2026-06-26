@@ -1,3 +1,4 @@
+> This README file was generated using the same AI agent from inside the console.
 # AI Coding Agent
 
 This project features an AI coding agent designed to assist with various coding tasks, including file management, code execution, and project setup.
